@@ -1,6 +1,7 @@
-@import url("https://cdn.jsdelivr.net/npm/video.js@latest/dist/video-js.min.css");
+@import url("video-js.min.css");
 @import url("w3.css");
-@import url("https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css");
+@import url("icecast.css");
+@import url("font-awesome.min.css");
 
 /* latin-ext */
 @font-face {
