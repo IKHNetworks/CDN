@@ -44,7 +44,7 @@ h3 {
 
 h1#header{
 	padding: 10px 0px 10px 80px;
-	background: transparent url(/icecast.png) no-repeat scroll left center;
+	background: transparent url(icecast.png) no-repeat scroll left center;
 }
 
 h3 small {
@@ -174,7 +174,7 @@ a.play {
 	padding-left: 22px;
 	margin-left: 25px;
 	border: none;
-	background: transparent url(/tunein.png) no-repeat scroll left center;
+	background: transparent url(tunein.png) no-repeat scroll left center;
 	background-size: auto 100%;
 }
 
@@ -182,7 +182,7 @@ a.auth {
 	padding-left: 22px;
 	margin-left: 25px;
 	border: none;
-	background: transparent url(/key.png) no-repeat scroll left top;
+	background: transparent url(key.png) no-repeat scroll left top;
 	background-size: auto 100%;
 }
 
